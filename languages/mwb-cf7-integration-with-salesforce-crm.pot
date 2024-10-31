@@ -1,0 +1,1029 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MWB CF7 Integration with Salesforce 1.0.0\n"
+"POT-Creation-Date: 2021-10-01 18:40+0530\n"
+"PO-Revision-Date: 2021-10-01 18:40+0530\n"
+"Last-Translator: \n"
+"Language-Team: MakeWebBetter\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x;_ex;_nx;esc_attr__;esc_attr_e;esc_attr_x;"
+"esc_html__;esc_html_e;esc_html_x;_n_noop;_nx_noop;translate_nooped_plural\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-mwb-cf7-integration-with-salesforce-crm-admin.php:150
+msgid "Back to feeds"
+msgstr ""
+
+#: admin/class-mwb-cf7-integration-with-salesforce-crm-admin.php:156
+msgid "Internal server error"
+msgstr ""
+
+#: admin/class-mwb-cf7-integration-with-salesforce-crm-admin.php:377
+msgid "Your Org ID is not properly configured, try again!"
+msgstr ""
+
+#: admin/class-mwb-cf7-integration-with-salesforce-crm-admin.php:395
+#: admin/class-mwb-cf7-integration-with-salesforce-crm-admin.php:586
+#: mwb-cf7-integration-with-salesforce-crm.php:74
+#: public/class-mwb-cf7-integration-with-salesforce-crm-public.php:519
+msgid "MWB CF7 Integration with Salesforce"
+msgstr ""
+
+#: admin/class-mwb-cf7-integration-with-salesforce-crm-admin.php:585
+msgid "CF7 Integration with Salesforce"
+msgstr ""
+
+#: admin/class-mwb-cf7-integration-with-salesforce-crm-admin.php:596
+#, php-format
+msgid ""
+"%1$s is deactivated, Please Update the PRO version as this version is "
+"outdated and will not work with the current %2$s Org version"
+msgstr ""
+
+#: admin/js/mwb-cf7-integration-with-salesforce-crm-admin.min.js:25
+msgid "<script>"
+msgstr ""
+
+#: admin/js/mwb-cf7-integration-with-salesforce-crm-admin.min.js:25
+msgid "<div>"
+msgstr ""
+
+#: admin/partials/setup-guide.php:22
+msgid "Login to your Salesforce account."
+msgstr ""
+
+#: admin/partials/setup-guide.php:25
+msgid "Click on the settings icon at the right top menu."
+msgstr ""
+
+#: admin/partials/setup-guide.php:28
+msgid "Click on setup. It will open a new tab."
+msgstr ""
+
+#: admin/partials/setup-guide.php:31
+msgid ""
+"In the new screen, search for \"App Manager\" in the search box provided at "
+"the left section."
+msgstr ""
+
+#: admin/partials/setup-guide.php:34
+msgid ""
+"Click on the App Manager. A new screen will appear listing all the available "
+"apps."
+msgstr ""
+
+#: admin/partials/setup-guide.php:37
+msgid "Click on \"New Connected App\"."
+msgstr ""
+
+#: admin/partials/setup-guide.php:40
+msgid "It will lead to open a form to create a new connected app."
+msgstr ""
+
+#: admin/partials/setup-guide.php:43
+msgid ""
+"Fill up mandatory informations like \"Connected App Name\" and \"Contact "
+"Email\"."
+msgstr ""
+
+#: admin/partials/setup-guide.php:46
+msgid "Enable OAuth Settings by checking the checkbox next to it."
+msgstr ""
+
+#: admin/partials/setup-guide.php:53
+#, php-format
+msgid "Enter  <strong> %s </strong> as call back url."
+msgstr ""
+
+#: admin/partials/setup-guide.php:61
+msgid ""
+"Select OAuth Scopes \"Access and manage your data (api)\" and \"Perform "
+"requests on your behalf at any time (refresh_token, offline_access)\"."
+msgstr ""
+
+#: admin/partials/setup-guide.php:64
+msgid "Scroll down to the bottom and click on save."
+msgstr ""
+
+#: admin/partials/setup-guide.php:67
+msgid ""
+"New app will be created and you will be redirected to the app details page."
+msgstr ""
+
+#: admin/partials/setup-guide.php:70
+msgid ""
+"Copy \"Consumer key\" and \"Consumer Sceret\" from there and enter it in "
+"Authentication form."
+msgstr ""
+
+#: admin/partials/setup-guide.php:75
+msgid "Click on login and authorize button."
+msgstr ""
+
+#: admin/partials/setup-guide.php:78
+msgid "It will redirect you to salesforce login panel."
+msgstr ""
+
+#: admin/partials/setup-guide.php:81
+msgid ""
+"After successful login, it will redirect you to consent page, where it will "
+"ask your permissions to access the data."
+msgstr ""
+
+#: admin/partials/setup-guide.php:84
+msgid ""
+"Click on allow, it should redirect back to your plugin admin page and your "
+"connection part is done."
+msgstr ""
+
+#: admin/partials/setup-guide.php:90
+msgid ""
+"In Salesforce Go to Company Information -> Salesforce.com Organization ID"
+msgstr ""
+
+#: admin/partials/setup-guide.php:93
+msgid ""
+"Enter your Salesforce domain with https( For e.g: https://example.salesforce."
+"com ) in Salesforce Domain field. This field is Optional."
+msgstr ""
+
+#: admin/partials/setup-guide.php:103
+#, php-format
+msgid ""
+"Still facing issue! Please check detailed app setup <a href=\"%s\" target="
+"\"_blank\"  >documentation</a>."
+msgstr ""
+
+#: extra-templates/makewebbetter-deactivation-template-display.php:32
+msgid "May we have a little info about why you are deactivating?"
+msgstr ""
+
+#: extra-templates/makewebbetter-deactivation-template-display.php:42
+msgid "Skip and Deactivate Now"
+msgstr ""
+
+#: extra-templates/makewebbetter-onboarding-template-display.php:34
+msgid "Welcome to MakeWebBetter"
+msgstr ""
+
+#: extra-templates/makewebbetter-onboarding-template-display.php:35
+msgid ""
+"We love making new friends! Subscribe below and we promise to keep you up-to-"
+"date with our latest new plugins, updates, awesome deals and a few special "
+"offers."
+msgstr ""
+
+#: extra-templates/makewebbetter-onboarding-template-display.php:45
+msgid "Skip For Now"
+msgstr ""
+
+#: includes/class-mwb-cf7-integration-with-salesforce-crm-ajax-handler.php:94
+msgid "Something went wrong!!"
+msgstr ""
+
+#: includes/class-mwb-cf7-integration-with-salesforce-crm-ajax-handler.php:116
+#: includes/class-mwb-cf7-integration-with-salesforce-crm-ajax-handler.php:283
+msgid "Success"
+msgstr ""
+
+#: includes/class-mwb-cf7-integration-with-salesforce-crm-ajax-handler.php:154
+msgid "Something went wrong!! Please try reloading this page."
+msgstr ""
+
+#: includes/class-mwb-cf7-integration-with-salesforce-crm-ajax-handler.php:187
+msgid "How to get the API keys?"
+msgstr ""
+
+#: includes/class-mwb-cf7-integration-with-salesforce-crm-ajax-handler.php:204
+msgid "Something went wrong!! Please try again"
+msgstr ""
+
+#: includes/class-mwb-cf7-integration-with-salesforce-crm-ajax-handler.php:215
+#: includes/class-mwb-cf7-integration-with-salesforce-crm-ajax-handler.php:238
+msgid "Validation successful !! Redirecting..."
+msgstr ""
+
+#: includes/class-mwb-cf7-integration-with-salesforce-crm-ajax-handler.php:244
+msgid "Invalid Credentials, try again!"
+msgstr ""
+
+#: includes/class-mwb-cf7-integration-with-salesforce-crm-ajax-handler.php:274
+msgid "Something went wrong! Check your credentials and authorize again"
+msgstr ""
+
+#: includes/class-mwb-cf7-integration-with-salesforce-crm-ajax-handler.php:280
+#: mwb-crm-fw/templates/tab-contents/accounts-tab.php:67
+msgid "Last token issued at "
+msgstr ""
+
+#: includes/class-mwb-cf7-integration-with-salesforce-crm-ajax-handler.php:347
+msgid "No data found"
+msgstr ""
+
+#: includes/class-mwb-cf7-integration-with-salesforce-crm-ajax-handler.php:360
+msgid "Inavlid email"
+msgstr ""
+
+#: includes/class-mwb-cf7-integration-with-salesforce-crm-ajax-handler.php:374
+msgid "Settings saved successfully"
+msgstr ""
+
+#: includes/class-mwb-cf7-integration-with-salesforce-crm-ajax-handler.php:564
+#: includes/class-mwb-cf7-integration-with-salesforce-crm-ajax-handler.php:588
+#: includes/class-mwb-cf7-integration-with-salesforce-crm-ajax-handler.php:625
+#: includes/class-mwb-cf7-integration-with-salesforce-crm-ajax-handler.php:709
+msgid "Somthing went wrong, Refresh and try again."
+msgstr ""
+
+#: includes/class-mwb-cf7-integration-with-salesforce-crm-ajax-handler.php:745
+msgid "No log data available"
+msgstr ""
+
+#: includes/class-mwb-cf7-integration-with-salesforce-crm-ajax-handler.php:821
+msgid "Invalid form"
+msgstr ""
+
+#: includes/class-mwb-cf7-integration-with-salesforce-crm-onboarding.php:343
+msgid "What is your monthly revenue?"
+msgstr ""
+
+#: includes/class-mwb-cf7-integration-with-salesforce-crm-onboarding.php:360
+msgid "What industry defines your business?"
+msgstr ""
+
+#: includes/class-mwb-cf7-integration-with-salesforce-crm-onboarding.php:395
+msgid "What is the best email address to contact you?"
+msgstr ""
+
+#: includes/class-mwb-cf7-integration-with-salesforce-crm-onboarding.php:405
+msgid "What is your contact number?"
+msgstr ""
+
+#: includes/class-mwb-cf7-integration-with-salesforce-crm-onboarding.php:649
+msgid "Select Any One Option..."
+msgstr ""
+
+#: includes/class-mwb-cf7-integration-with-salesforce-crm-onboarding.php:920
+msgid "Unexpected Error Occured"
+msgstr ""
+
+#: mwb-cf7-integration-with-salesforce-crm.php:73
+#: mwb-crm-fw/templates/meta-boxes/select-form.php:31
+msgid "Contact Form 7"
+msgstr ""
+
+#: mwb-cf7-integration-with-salesforce-crm.php:82
+#, php-format
+msgid " %1$s is not activated, Please activate %1$s first to activate %2$s"
+msgstr ""
+
+#: mwb-cf7-integration-with-salesforce-crm.php:187
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-salesforce-template-manager.php:280
+msgid "Settings"
+msgstr ""
+
+#: mwb-cf7-integration-with-salesforce-crm.php:188
+msgid "GO PRO"
+msgstr ""
+
+#: mwb-cf7-integration-with-salesforce-crm.php:209
+msgid "Demo"
+msgstr ""
+
+#: mwb-cf7-integration-with-salesforce-crm.php:210
+#: mwb-crm-fw/templates/tab-contents/accounts-tab.php:147
+msgid "Documentation"
+msgstr ""
+
+#: mwb-cf7-integration-with-salesforce-crm.php:211
+#: mwb-crm-fw/templates/tab-contents/accounts-tab.php:155
+msgid "Support"
+msgstr ""
+
+#: mwb-crm-fw/api/class-mwb-cf7-integration-salesforce-api-base.php:741
+msgid "Something went wrong"
+msgstr ""
+
+#: mwb-crm-fw/api/class-mwb-cf7-integration-salesforce-api-base.php:781
+msgid "Error posting to CRM"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-connect-framework.php:206
+msgid "Matches exactly"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-connect-framework.php:207
+msgid "Does not match exactly"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-connect-framework.php:208
+msgid "Contains (Text)"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-connect-framework.php:209
+msgid "Does not contain (Text)"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-connect-framework.php:210
+msgid "Exist in (Text)"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-connect-framework.php:211
+msgid "Does not Exists in (Text)"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-connect-framework.php:212
+msgid "Starts with (Text)"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-connect-framework.php:213
+msgid "Does not start with (Text)"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-connect-framework.php:214
+msgid "Ends with (Text)"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-connect-framework.php:215
+msgid "Does not end with (Text)"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-connect-framework.php:216
+msgid "Less than (Text)"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-connect-framework.php:217
+msgid "Greater than (Text)"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-connect-framework.php:218
+msgid "Less than (Date/Time)"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-connect-framework.php:219
+msgid "Greater than (Date/Time)"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-connect-framework.php:220
+msgid "Equals (Date/Time)"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-connect-framework.php:221
+msgid "Is empty"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-connect-framework.php:222
+msgid "Is not empty"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-connect-framework.php:284
+msgid "Application is not connected to Salesforce"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-salesforce-feed-module.php:128
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-salesforce-feed-module.php:144
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-salesforce-template-manager.php:278
+msgid "Feeds"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-salesforce-feed-module.php:129
+#: mwb-crm-fw/templates/tab-contents/logs-tab.php:50
+msgid "Feed"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-salesforce-feed-module.php:130
+msgid "Crm Feeds"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-salesforce-feed-module.php:131
+msgid "Parent Feed"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-salesforce-feed-module.php:132
+#: mwb-crm-fw/templates/tab-contents/feeds-tab.php:32
+msgid "All Feeds"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-salesforce-feed-module.php:133
+msgid "View Feed"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-salesforce-feed-module.php:134
+msgid "Add New Feed"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-salesforce-feed-module.php:135
+msgid "Add New"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-salesforce-feed-module.php:136
+msgid "Edit Feed"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-salesforce-feed-module.php:137
+msgid "Update Feed"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-salesforce-feed-module.php:138
+msgid "Search Feed"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-salesforce-feed-module.php:139
+msgid "Not Found"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-salesforce-feed-module.php:140
+msgid "Not found in Trash"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-salesforce-feed-module.php:145
+msgid "Feeds for crm"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-salesforce-feed-module.php:179
+msgid "Feed details"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-salesforce-feed-module.php:189
+msgid "Conditional Statements"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-salesforce-template-manager.php:113
+#, php-format
+msgid "%s day"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-salesforce-template-manager.php:120
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-salesforce-template-manager.php:139
+msgid "Activate"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-salesforce-template-manager.php:123
+#, php-format
+msgid ""
+" the license key before %s or you may risk losing data and the plugin will "
+"also become dysfunctional."
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-salesforce-template-manager.php:135
+msgid "Trail expried !! "
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-salesforce-template-manager.php:142
+msgid " your license and continue enjoying the pro version features."
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-salesforce-template-manager.php:173
+msgid "Go Premium"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-salesforce-template-manager.php:277
+msgid "Dashboard"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-salesforce-template-manager.php:279
+msgid "Logs"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-salesforce-template-manager.php:385
+msgid "API Name : "
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-salesforce-template-manager.php:385
+msgid "Name : "
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-salesforce-template-manager.php:389
+msgid "Type : "
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-salesforce-template-manager.php:394
+msgid "Length : "
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-salesforce-template-manager.php:400
+msgid "Picklist Values : "
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-salesforce-template-manager.php:405
+msgid "Required Field"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-salesforce-template-manager.php:414
+msgid "Field Type"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-salesforce-template-manager.php:417
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-salesforce-template-manager.php:432
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-salesforce-template-manager.php:459
+#: mwb-crm-fw/templates/meta-boxes/add-new-field.php:28
+#: mwb-crm-fw/templates/meta-boxes/primary-field.php:28
+msgid "Select an Option"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-salesforce-template-manager.php:419
+msgid "Standard Value"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-salesforce-template-manager.php:423
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-salesforce-template-manager.php:455
+msgid "Custom Value"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-salesforce-template-manager.php:430
+msgid "Field Value"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-salesforce-template-manager.php:474
+msgid "Map with woo order statuses"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-salesforce-template-manager.php:502
+msgid "Select Field"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-salesforce-template-manager.php:512
+msgid "Select Condition"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-salesforce-template-manager.php:517
+msgid "Enter value"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-salesforce-template-manager.php:553
+#: mwb-crm-fw/templates/tab-contents/feeds-tab.php:67
+msgid "Form : "
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-salesforce-template-manager.php:557
+#: mwb-crm-fw/templates/tab-contents/feeds-tab.php:71
+msgid "Object : "
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-salesforce-template-manager.php:561
+#: mwb-crm-fw/templates/tab-contents/feeds-tab.php:76
+msgid "Primary Key : "
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-salesforce-template-manager.php:565
+#: mwb-crm-fw/templates/tab-contents/feeds-tab.php:81
+msgid "Conditions : "
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-salesforce-template-manager.php:566
+#: mwb-crm-fw/templates/tab-contents/feeds-tab.php:82
+msgid "Applied"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-salesforce-template-manager.php:570
+#: mwb-crm-fw/templates/tab-contents/feeds-tab.php:87
+msgid "Edit feed"
+msgstr ""
+
+#: mwb-crm-fw/framework/class-mwb-cf7-integration-salesforce-template-manager.php:572
+#: mwb-crm-fw/templates/tab-contents/feeds-tab.php:91
+msgid "Trash feed"
+msgstr ""
+
+#: mwb-crm-fw/templates/meta-boxes/add-new-field.php:22
+msgid "Add New Field"
+msgstr ""
+
+#: mwb-crm-fw/templates/meta-boxes/add-new-field.php:46
+msgid "Add Field"
+msgstr ""
+
+#: mwb-crm-fw/templates/meta-boxes/header.php:23
+#: mwb-crm-fw/templates/tab-contents/accounts-tab.php:24
+#: mwb-crm-fw/templates/tab-contents/authorisation-tab.php:87
+#: mwb-crm-fw/templates/tab-contents/feeds-tab.php:24
+#: mwb-crm-fw/templates/tab-contents/logs-tab.php:22
+#: mwb-crm-fw/templates/tab-contents/settings-tab.php:23
+msgid "Salesforce"
+msgstr ""
+
+#: mwb-crm-fw/templates/meta-boxes/header.php:26
+#: mwb-crm-fw/templates/tab-contents/accounts-tab.php:27
+#: mwb-crm-fw/templates/tab-contents/authorisation-tab.php:90
+#: mwb-crm-fw/templates/tab-contents/feeds-tab.php:27
+#: mwb-crm-fw/templates/tab-contents/logs-tab.php:25
+#: mwb-crm-fw/templates/tab-contents/settings-tab.php:26
+msgid "CF7"
+msgstr ""
+
+#: mwb-crm-fw/templates/meta-boxes/opt-in-condition.php:22
+msgid "Condition Filter"
+msgstr ""
+
+#: mwb-crm-fw/templates/meta-boxes/opt-in-condition.php:33
+msgid "Enable to add Conditional filters on form submission"
+msgstr ""
+
+#: mwb-crm-fw/templates/meta-boxes/opt-in-condition.php:50
+msgid "Add \"AND\" filter"
+msgstr ""
+
+#: mwb-crm-fw/templates/meta-boxes/opt-in-condition.php:52
+msgid "Trash"
+msgstr ""
+
+#: mwb-crm-fw/templates/meta-boxes/opt-in-condition.php:58
+msgid "Add \"OR\" filter"
+msgstr ""
+
+#: mwb-crm-fw/templates/meta-boxes/primary-field.php:22
+msgid "Primary Field"
+msgstr ""
+
+#: mwb-crm-fw/templates/meta-boxes/primary-field.php:46
+msgid ""
+"Please select a field which should be used as \"primary key\" to update an "
+"existing record. \n"
+"\t\t\t\t\t\tIn case of duplicate records"
+msgstr ""
+
+#: mwb-crm-fw/templates/meta-boxes/select-fields.php:21
+msgid "Map Fields"
+msgstr ""
+
+#: mwb-crm-fw/templates/meta-boxes/select-form.php:23
+msgid "Select CF7 Form"
+msgstr ""
+
+#: mwb-crm-fw/templates/meta-boxes/select-form.php:30
+msgid "Select Form"
+msgstr ""
+
+#: mwb-crm-fw/templates/meta-boxes/select-object.php:28
+msgid "Select Salesforce Object"
+msgstr ""
+
+#: mwb-crm-fw/templates/meta-boxes/select-object.php:35
+msgid "Select Object"
+msgstr ""
+
+#: mwb-crm-fw/templates/meta-boxes/select-object.php:50
+msgid "Refresh Objects"
+msgstr ""
+
+#: mwb-crm-fw/templates/meta-boxes/select-object.php:56
+msgid "Refresh Fields"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/accounts-tab.php:43
+msgid "Connection Status"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/accounts-tab.php:47
+msgid "Connected"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/accounts-tab.php:59
+#: mwb-crm-fw/templates/tab-contents/accounts-tab.php:87
+msgid "Connected via"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/accounts-tab.php:59
+#: mwb-crm-fw/templates/tab-contents/authorisation-tab.php:130
+msgid "REST API"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/accounts-tab.php:65
+msgid "Access token has expired."
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/accounts-tab.php:71
+msgid "Refresh Access Token"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/accounts-tab.php:77
+#: mwb-crm-fw/templates/tab-contents/accounts-tab.php:93
+msgid "Connected Instance : "
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/accounts-tab.php:87
+msgid "WebtoLead/WebtoCase"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/accounts-tab.php:104
+msgid "Reauthorize"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/accounts-tab.php:105
+msgid "Disconnect"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/accounts-tab.php:118
+#: mwb-crm-fw/templates/tab-contents/accounts-tab.php:130
+msgid "Synced Contact Forms"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/accounts-tab.php:124
+msgid ""
+"Total number of Contact Form 7 submission data which are synced over "
+"Salesforce."
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/accounts-tab.php:125
+msgid "View log"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/accounts-tab.php:144
+msgid "Need any help ? Check our documentation."
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/accounts-tab.php:152
+msgid "Facing any issue ? Open a support ticket."
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/accounts-tab.php:160
+msgid "Need personalized solution, contact us !"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/accounts-tab.php:163
+msgid "Connect"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/authorisation-tab.php:29
+#, php-format
+msgid "Getting started with CF7 and %s"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/authorisation-tab.php:40
+#, php-format
+msgid ""
+"With this CF7 %1$s Integration you can easily sync all your CF7 Form "
+"Submissions data over %2$s CRM. It will create %3$s over %4$s CRM, based on "
+"your CF7 Form Feed data."
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/authorisation-tab.php:43
+msgid "Contacts, Leads, Case etc."
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/authorisation-tab.php:53
+#, php-format
+msgid "Connect your %s CRM account with CF7."
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/authorisation-tab.php:62
+#, php-format
+msgid "Sync your data over %s CRM."
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/authorisation-tab.php:70
+msgid "Connect your Account."
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/authorisation-tab.php:101
+msgid "Enter your credentials here"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/authorisation-tab.php:109
+msgid "Authorization has been successful ! Validating Connection ....."
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/authorisation-tab.php:116
+msgid "Integration Method"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/authorisation-tab.php:119
+msgid "Choose the type of Integration method to connect with Salesforce"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/authorisation-tab.php:134
+msgid ""
+"Web-to-Lead or Web-to-Case (use this if REST API is disabled for your Org)"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/authorisation-tab.php:143
+msgid "Environment"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/authorisation-tab.php:146
+msgid "Select the type of Environment of your Salesforce Account."
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/authorisation-tab.php:157
+msgid "Production"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/authorisation-tab.php:158
+#: mwb-crm-fw/templates/tab-contents/feeds-tab.php:63
+msgid "Sandbox"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/authorisation-tab.php:168
+msgid "Use Own App"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/authorisation-tab.php:171
+msgid "Enable this to connect with your own Salesforce app."
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/authorisation-tab.php:190
+msgid "Consumer Key"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/authorisation-tab.php:193
+msgid "Enter your Salesforce Consumer key."
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/authorisation-tab.php:215
+msgid "Consumer Secret"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/authorisation-tab.php:218
+msgid "Enter your Salesforce Consumer Secret key."
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/authorisation-tab.php:241
+msgid "Callback URL"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/authorisation-tab.php:244
+msgid ""
+"Copy this callback URL and enter it in your app callback URL. Web-Protocol "
+"of callback URL must be HTTPS in order to successfully authorize with "
+"Salesforce"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/authorisation-tab.php:258
+msgid "Organization ID"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/authorisation-tab.php:261
+msgid ""
+"Enter your Salesforce Organization ID. You will find it under Company "
+"Information in Salesforce."
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/authorisation-tab.php:283
+msgid "Salesforce Domain"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/authorisation-tab.php:286
+msgid "Enter your Salesforce Account domain ( Optional )."
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/authorisation-tab.php:306
+msgid "Authorize"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/authorisation-tab.php:319
+msgid "Don’t have an account yet . "
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/authorisation-tab.php:320
+msgid "Create A Free Account"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/authorisation-tab.php:323
+msgid "Check app setup guide . "
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/authorisation-tab.php:324
+msgid "Show Me How"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/authorisation-tab.php:340
+#, php-format
+msgid ""
+"Congrats! You’ve successfully set up the MWB CF7 Integration with %s Plugin."
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/authorisation-tab.php:355
+#, php-format
+msgid ""
+"Now you can go to the dashboard and check for the synced data. You can check "
+"your feeds, edit them and resync the data if you want. If you do not see "
+"your data over %s CRM, you can check the logs for any possible error."
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/authorisation-tab.php:362
+msgid "View Dashboard"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/feeds-tab.php:31
+msgid "Select CF7 form"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/feeds-tab.php:63
+msgid "Active"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/feeds-tab.php:82
+msgid "-"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/feeds-tab.php:101
+msgid "Add Feeds"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/logs-tab.php:31
+msgid "Clear Log"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/logs-tab.php:36
+msgid "Download"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/logs-tab.php:49
+msgid "Expand"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/logs-tab.php:51
+msgid "Feed ID"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/logs-tab.php:55
+#, php-format
+msgid "%s Object"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/logs-tab.php:61
+#, php-format
+msgid "%s ID"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/logs-tab.php:64
+msgid "Event"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/logs-tab.php:65
+msgid "Timestamp"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/logs-tab.php:66
+msgid "Request"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/logs-tab.php:67
+msgid "Response"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/logs-tab.php:74
+msgid "Please enable the logs from "
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/logs-tab.php:74
+msgid "Settings tab"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/settings-tab.php:39
+msgid "Enable logs"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/settings-tab.php:44
+msgid "Enable logging of all the form data to be sent over salesforce"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/settings-tab.php:57
+msgid "Plugin Data"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/settings-tab.php:62
+msgid "Enable to delete the plugin data after uninstallation of plugin"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/settings-tab.php:75
+msgid "Email notification"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/settings-tab.php:80
+msgid ""
+"Enable email notification on errors when connected via REST API while it "
+"sends debug Email when connected via Web-to-Lead/Web-to-Case"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/settings-tab.php:109
+msgid "Delete logs after N days"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/settings-tab.php:114
+msgid "This will delete the logs data after N no. of days"
+msgstr ""
+
+#: mwb-crm-fw/templates/tab-contents/settings-tab.php:131
+msgid "Save"
+msgstr ""
+
+#: public/class-mwb-cf7-integration-with-salesforce-crm-public.php:497
+#, php-format
+msgid "Error While Posting CF7 form data over %s "
+msgstr ""
+
+#: public/partials/email-template.php:21 public/partials/email-template.php:27
+msgid "Error - "
+msgstr ""
+
+#: public/partials/email-template.php:42
+msgid "View Logs"
+msgstr ""
